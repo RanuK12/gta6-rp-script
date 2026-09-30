@@ -1,73 +1,41 @@
-# Comparación de ideas de scripts para FiveM RP
+# Elección de Idea para GTA6 RP Script
 
-## 1. NPCs con memoria e IA
-- **Tebex**: 4 listings (ScriptShow Exclusive, Mate Scripts, GRP Development, AN Store)
-- **Precio**: $15 - $25 por script
-- **CFX.RE**: 2 hilos relevantes (NPC system with integrated intelligence + transcription + voice, SceneAI)
-- **Gap de demanda**: Alta (interacciones realistas, soporte multilenguaje, diálogo contextual)
+## Análisis de Mercado
 
-## 2. Housing 2.0 con física
-- **Tebex**: Sin resultados
-- **CFX.RE**: Sin resultados
-- **Gap de demanda**: No se encontraron datos
+| Candidata | Hilos encontrados | Precio (Tebex) | Replies promedio | Views promedio | Último post (fecha) | Viabilidad |
+|-----------|-------------------|----------------|------------------|----------------|---------------------|------------|
+| NPC AI | 5 | NO VERIFICADO | 0.0 | 0 | 2025-10-13 | Baja |
+| Housing 2.0 | 0 | NO VERIFICADO | 0.0 | 0 | N/A | Nula |
+| Cartel economy | 0 | NO VERIFICADO | 0.0 | 0 | N/A | Nula |
+| Hitman contracts | 0 | NO VERIFICADO | 0.0 | 0 | N/A | Nula |
+| Elite tuners | 0 | NO VERIFICADO | 0.0 | 0 | N/A | Nula |
+| Gang territory | 0 | NO VERIFICADO | 0.0 | 0 | N/A | Nula |
+| Immersive hospital | 0 | NO VERIFICADO | 0.0 | 0 | N/A | Nula |
+| Influencer system | 0 | NO VERIFICADO | 0.0 | 0 | N/A | Nula |
+| Fishing & maritime | 0 | NO VERIFICADO | 0.0 | 0 | N/A | Nula |
+| Prison break | 0 | NO VERIFICADO | 0.0 | 0 | N/A | Nula |
 
-## 3. Economía de carteles
-- **Tebex**: Sin resultados
-- **CFX.RE**: Sin resultados
-- **Gap de demanda**: No se encontraron datos
+## Observaciones
 
-## 4. Hitman con contratos
-- **Tebex**: Sin resultados
-- **CFX.RE**: Sin resultados
-- **Gap de demanda**: No se encontraron datos
+1. **Problemas de Búsqueda**: La API del forum.cfx.re parece no estar funcionando correctamente para búsquedas específicas de "fivem..." con resultados consistentemente vacíos o irrelevantes.
 
-## 5. Tuners élite
-- **Tebex**: Sin resultados
-- **CFX.RE**: Sin resultados
-- **Gap de demanda**: No se encontraron datos
+2. **Resultados Limitados**: Solo se encontraron 5 hilos relevantes para "fivem npc memory script", y ninguno para las otras categorías.
 
-## 6. Bandas con territorio
-- **Tebex**: Sin resultados
-- **CFX.RE**: Sin resultados
-- **Gap de demanda**: No se encontraron datos
-
-## 7. Hospital inmersivo
-- **Tebex**: Sin resultados
-- **CFX.RE**: Sin resultados
-- **Gap de demanda**: No se encontraron datos
-
-## 8. Celebridades/influencers
-- **Tebex**: Sin resultados
-- **CFX.RE**: Sin resultados
-- **Gap de demanda**: No se encontraron datos
-
-## 9. Pesca y marítimo
-- **Tebex**: Sin resultados
-- **CFX.RE**: Sin resultados
-- **Gap de demanda**: No se encontraron datos
-
-## 10. Prisión con fuga
-- **Tebex**: Sin resultados
-- **CFX.RE**: Sin resultados
-- **Gap de demanda**: No se encontraron datos
+3. **Fuentes Alternativas**: Las búsquedas en web_search tampoco devolvieron resultados específicos para estos scripts.
 
 ## Recomendación
-Basado en los datos recopilados, la idea con mayor potencial es **NPCs con memoria e IA**. Esta categoría tiene una clara demanda con 4 scripts disponibles en Tebex y 2 hilos activos en CFX.RE, indicando una comunidad interesada. Las funcionalidades como soporte multilenguaje, diálogo contextual y personalización ofrecen una experiencia inmersiva que parece estar en alta demanda.
 
-## Estructura del proyecto
-Se creará un script de NPCs con memoria e IA que permitirá:
-- Interacciones personalizadas basadas en historial
-- Soporte multilenguaje
-- Diálogo contextual
-- Integración con ESX/QBCore
+Basado en los datos limitados disponibles, **NPC AI** es la opción más viable por tener al menos algunos resultados. Sin embargo, la viabilidad general es baja debido a la falta de datos de mercado.
 
-Se utilizará la estructura estándar para scripts de FiveM:
-```lua
--- fxmanifest.lua
--- client/ (lógica cliente)
--- server/ (lógica servidor)
--- config.lua (ajustes)
--- README.md (documentación)
-```
+## Justificación
 
-Se ha creado el repositorio en `/Users/emilioranucoli/.ranukita/projects/gta6-rp-script` con la estructura base y el archivo `docs/eleccion.md` con esta comparación.
+La elección se basa únicamente en disponibilidad de datos, ya que todas las demás categorías muestran cero resultados en las búsquedas. Esto sugiere que:
+- El mercado podría estar saturado o los scripts no se publican en forum.cfx.re
+- Los términos de búsqueda podrían no ser óptimos
+- Los desarrolladores podrían usar otras plataformas para vender sus scripts
+
+## Próximos Pasos
+
+1. Investigar alternativas de búsqueda (Tebex directamente, otros foros)
+2. Considerar un enfoque más general que combine múltiples categorías
+3. Reevaluar la viabilidad del proyecto con datos más completos
