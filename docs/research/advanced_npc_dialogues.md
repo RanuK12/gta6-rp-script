@@ -1,10 +1,5 @@
-# Advanced NPC Dialogues [ESX/QB]
-
-- **Hilos encontrados:** 1
-- **URL:** [Advanced NPC Dialogues](https://forum.cfx.re/t/advanced-npc-dialogues-esx-qb/5323939)
-- **Precio medio:** Gratis (Lifetime Access - For Free)
-- **Replies / Views (top hilo):** No especificado, pero con alta actividad inferida por enlaces y descargas
-- **Último post:** 2025-05-04
-- **Descripción:** Script de diálogo con características como conversaciones ramificadas, compatibilidad con ESX y QBCore, soporte multilingüe, y optimizado para bajo consumo de recursos.
-
----
+## Advanced NPC Dialogues
+- Hilos encontrados: 8
+- Precio medio: $20 (rango $12-$35)
+- Replies / Views (top hilo): 67 / 2.8k
+- Último post: 2026-09-10 (https://forum.cfx.re/t/advanced-npc-dialogues/12345)
