@@ -1,0 +1,1 @@
+# Research for fivem npc memory script\n\nNo results found.\n
